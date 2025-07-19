@@ -1,0 +1,11 @@
+- ✔️ Set up ai-lab repo and VS Code project
+- ✔️ “Hello, Python world!” printed successfully
+- ✔️ Variables (int, float, str, bool) defined and printed
+- ✔️ Variables printed
+- ▶️ Data structures coming: list, tuple, set, dict
+- ✔️ Lists, tuples, sets, dicts created and printed
+- ✔️ Conditional logic (if / elif / else) implemented and tested
+- ▶️ Next: loops (for & while)
+- ✔️ Loops: for-loops & while-loops implemented and tested
+- ▶️ Mini-Project #1: CLI Calculator
+- ✔️ CLI Calculator built and tested (add, sub, mul, div, error handling)
